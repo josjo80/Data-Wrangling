@@ -1,0 +1,9 @@
+﻿Data Wrangling Final Project - P3
+Map Information
+
+
+Map Position: Denver
+https://s3.amazonaws.com/metro-extracts.mapzen.com/denver-boulder_colorado.osm.bz2
+
+
+I chose Denver, CO as the region of interest since I have lived here for almost 7 years and am interested in how businesses could use this data for expansion.
